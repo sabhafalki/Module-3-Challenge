@@ -35,6 +35,6 @@ The analysis of the election shows that:
 The script uses the data from the file "election_results.csv". The script can be reused for any other elections, provided the following is changed:
 1. The Data File: The "file_to_load" variable stores the path and filename of the data file. This must be changed in order to reuse the script.
 2. The Output File: The "file_to_save" variable stores the path and filename of the output/result file. This can be changed to store the output elsewhere. 
-<br>
+
 ![PythonCode](/Screenshot/PythonCode.png)
 
