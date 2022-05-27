@@ -42,7 +42,7 @@ The script uses the data from the file "election_results.csv". The script can be
 ## Script for Other Scenarious ##
 THe script can also be reused for other types of elections, such as
 1. Provincial and Territorial Elections: The script can be reused for such elections, but along with the changes mentioned above, the text fields will also need to be updated (i.e. Country text must be replaced by Provincial).
-2. 
+2. Process of Bill Passing: The script can also be used for voting on certain Bills in the parliment. Again the text fields will need to be modified to accomodate this. 
 
 # Further Analysis #
 ## Code Enhancement ##
