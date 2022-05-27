@@ -9,22 +9,30 @@ The purpose of this Project is to analyze and audit the Election Outcome for a r
 7. The county with the highest turnout.
 
 # Resources #
-Data Source: election_results.csv
+Data Source: election_results.csv <br>
 Software: Python 3.10, Visual Studio Code, Excel
 
 # Election Audit Results #
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The county results were:
-  - Jefferson County received 38,855 number of votes and 10.5% of the total votes. 
-  - Denver county received 306,055 number of votes and 82.8% of the total votes. 
-  - Arapahoe county received 24,801 number of votes and 6.7% of the total votes.
+  - Jefferson County received a total of 38,855 votes, which accounts for 10.5% of the total votes. 
+  - Denver county received a total of 306,055 votes, which accounts for 82.8% of the total votes. 
+  - Arapahoe county received a total of 24,801 votes, which accounts for 6.7% of the total votes.
 
-•	The county with the largest voter turnout was:
-o	Denver 
-•	The candidates results were:
-o	Charles Casper Stockham received 85,213 number of votes and 23% of the votes.
-o	Diana DeGette received 272,892 number of votes and 73.8% of the votes.
-o	Raymon Anthony Doane received 11,606 number of votes and 3.1% of the votes.
-•	The winner of the election was:
-o	Diana DeGette, who received 272,892 number of total votes and 73.8% of the votes.
+- The county with the largest voter turnout was: Denver 
+
+- The candidates results were:
+  - Charles Casper Stockham received a total of 85,213 votes, which accunts for 23% of the total votes.
+  - Diana DeGette received a total of 272,892 votes, which accounts for 73.8% of the total votes.
+  - Raymon Anthony Doane received a total of 11,606 votes, which accounts for 3.1% of the total votes.
+
+- The winner of the election was:
+  - Diana DeGette, who received a total of 272,892 votes, which is 73.8% of the total votes.
+
+# Election Audit Summary #
+
+
+
+
+
