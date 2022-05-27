@@ -52,4 +52,8 @@ THe script can also be reused for other types of elections, such as
 ## Additional Analyzation ##
 1. Graphs can be created to analyze the relation between the total number of voters and the outcome.
 2. The script does not detect duplicate votes (i.e. duplicate voting ID, which should not be allowed).
-3. 
+3. It appears that the Denver Country had an impact on the overall votes, and thereby contributing to Diana's Win.
+
+![CountryVOtes](/Screenshots/TotalVotesByCountry.png)
+![CandidateVotes](/Screenshots/TotalVotesByCandidate.png)
+<br>
