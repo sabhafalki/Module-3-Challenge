@@ -39,3 +39,17 @@ The script uses the data from the file "election_results.csv". The script can be
 ![PythonCode](/Screenshots/PythonCode.png)
 <br>
 
+## Script for Other Scenarious ##
+THe script can also be reused for other types of elections, such as
+1. Provincial and Territorial Elections: The script can be reused for such elections, but along with the changes mentioned above, the text fields will also need to be updated (i.e. Country text must be replaced by Provincial).
+2. dd
+
+# Further Analysis #
+
+
+# Challenges and Difficulties Encountered #
+
+
+
+
+
