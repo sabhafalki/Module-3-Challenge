@@ -42,14 +42,14 @@ The script uses the data from the file "election_results.csv". The script can be
 ## Script for Other Scenarious ##
 THe script can also be reused for other types of elections, such as
 1. Provincial and Territorial Elections: The script can be reused for such elections, but along with the changes mentioned above, the text fields will also need to be updated (i.e. Country text must be replaced by Provincial).
-2. dd
+2. 
 
 # Further Analysis #
+## Code Enhancement ##
+1. The code can be enhanced so that the Data Source File (i.e. "file_to_load") and the Output File Location (i.e. "file_to_save") are read from the user on execution (i.e. by using the "input()" python function).
+2. Error handling can be introduced so that the code checks for a valid Data Source File (i.e. "file_to_load") and for a valid Output File Location (i.e. "file_to_save").
 
-
-# Challenges and Difficulties Encountered #
-
-
-
-
-
+## Additional Analyzation ##
+1. Graphs can be created to analyze the relation between the total number of voters and the outcome.
+2. The script does not detect duplicate votes (i.e. duplicate voting ID, which should not be allowed).
+3. 
